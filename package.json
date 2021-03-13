@@ -1,6 +1,6 @@
 {
-  "name": "auto-test-package",
-  "version": "1.0.0",
+  "name": "@andsnpl-scratch/auto-test-package",
+  "version": "0.0.1--canary.1.23f003e.0",
   "description": "Used to test https://github.com/intuit/auto",
   "main": "index.js",
   "scripts": {
