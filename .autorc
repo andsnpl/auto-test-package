@@ -1,0 +1,10 @@
+{
+  "plugins": [
+    "git-tag",
+		"npm"
+  ],
+  "owner": "andsnpl",
+  "repo": "auto-test-package",
+  "name": "andsnpl",
+  "email": "paul@andersonpaul.com"
+}
