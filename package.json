@@ -1,0 +1,19 @@
+{
+  "name": "auto-test-package",
+  "version": "1.0.0",
+  "description": "Used to test https://github.com/intuit/auto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andsnpl/auto-test-package.git"
+  },
+  "author": "Paul Anderson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andsnpl/auto-test-package/issues"
+  },
+  "homepage": "https://github.com/andsnpl/auto-test-package#readme"
+}
